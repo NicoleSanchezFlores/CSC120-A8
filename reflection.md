@@ -8,4 +8,4 @@ i made a class that represents your charracter in stardew valley. StardewCharact
 There are other methods in the StardewCharacter class for handling the character's energy in addition to the ones listed in the Contract interface. one of these is a constructor (StardewCharacter()) that, when creating your character, makes the character's energy and inventory. In addition, there are functions for manipulating energy: shrink() reduces the character's energy by 10 units, while expand() raises it by 20 units. The character's energy is replenished to a maximum of 100 units via the rest() function. These methods are needed for controlling the character's energy, which affects their capacity to carry out different activities like mining and farming in Stardew Valley. 
 
 - What worked, what didn't, what advice would you give someone taking this course in the future?
-I think allowing the freedom with this assignment helped alot. I really enjoy stardew valley so adding some things from teh game was really cool. 
+I think allowing the freedom with this assignment helped alot. I really enjoy stardew valley so adding some things from the game was really cool. 
